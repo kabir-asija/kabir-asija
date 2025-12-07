@@ -1,31 +1,35 @@
 <div align="center">
-  
+
 # Hi 👋, I'm Kabir Asija
 
-### 💻 Full Stack Stack Developer
+### 💻 Full Stack Developer
 
-![text](/assets/email.png) ![text](/assets/linkedin.png)
+<p>
+  <a href="mailto:your-email@example.com"><img align="center" src="/assets/email.png" alt="kabirasija3@gmail.com" /></a>  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/kabirasija" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kabirasija" height="30" width="40"/></a>  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/kabirasija" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kabirasija" height="30" width="40" /></a>
+</p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
-</div>
-Passionate full-stack JavaScript developer skilled in building fast, scalable, and modern web applications using MERN and PERN stacks.
-
+Passionate web developer skilled in building fast and modern web applications.
 
 ## 🛠️ Tech Stack
 
-### Frontend  
+**Frontend:**  
 React, JavaScript (ES6+), Tailwind, shadcn/ui, DaisyUI  
 
-### Backend  
-Node.js, Express.js 
+**Backend:**  
+Node.js, Express.js  
 
-### Databases  
+**Databases:**  
 MongoDB, PostgreSQL, SQL / NoSQL  
 
-### Tools  
-Git, Postman, VS code, Nodemailer
+**Tools:**  
+Git, Postman, VS Code, Nodemailer
 
 ## 📚 Education  
-<strong>Bachelor of Computer Applications (BCA)</strong>  
+**Bachelor of Computer Applications (BCA)**
