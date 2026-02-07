@@ -1,60 +1,107 @@
-# <div align="center"> Hi, I'm Kabir 👋</div>
+<div align="center">
 
-## 💫 About Me
-Learning and building every day.
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=250&section=header&text=Kabir%20Asija&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
 
----
+<br/>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kabirasija) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kabirasija3@gmail.com)
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;BCA+Student;Building+Scalable+Web+Apps;Learning+Every+Day"/>
 
----
+<br/>
+<br/>
 
-## 💻 Tech Stack
+<!-- Contact / Socials with spacing -->
+<a href="https://linkedin.com/in/kabirasija">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:kabirasija3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/kabirasija">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-### 🧑‍💻 Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### ⚙️ Frontend 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-
+</div>
 
 ---
 
-### 🛠 Backend 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Clerk](https://img.shields.io/badge/Clerk-%23007FFF.svg?style=for-the-badge&logo=clerk&logoColor=white)
+## 🧠 About Me
+I’m a **full-stack developer** who enjoys building production-style applications and understanding systems.
+
+I prefer learning by **building real things**, breaking them, and improving them.
 
 ---
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## ⚙️ Tech Stack
+
+### 🧑‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts&perline=6"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,expo&perline=6"/>
+</p>
+
+### 🔐 Backend & Auth
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=6"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat&logo=google&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Cache
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=6"/>
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,vercel&perline=6"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/>
+</p>
 
 ---
 
-### ☁️ Deployment & Hosting
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kabir-asija&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir-asija&theme=tokyonight"/>
+
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-asija&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
-### 🧰 Tools & Utilities
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🚀 Current Focus
+- Backend scalability & system design basics  
+- Data Structures & Algorithms (LeetCode)
 
 ---
 
-## 📚 Education
+## 🎓 Education
 **Bachelor of Computer Applications (BCA)**
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=3"/>
+
+<br/>
+
+✨ Code. Eat. Learn. Repeat. ✨
+
+<br/><br/>
+
+</div>
